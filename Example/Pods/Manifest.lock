@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - YCBannerView (0.0.1):
+    - Masonry
+
+DEPENDENCIES:
+  - YCBannerView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  YCBannerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  YCBannerView: baf68dd710c38a4c19161a8548c5189073f2f87b
+
+PODFILE CHECKSUM: f10405a33499c3da42e7267a9a83052d307393fa
+
+COCOAPODS: 1.11.2

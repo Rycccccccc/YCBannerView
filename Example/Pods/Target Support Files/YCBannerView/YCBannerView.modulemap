@@ -1,0 +1,6 @@
+framework module YCBannerView {
+  umbrella header "YCBannerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

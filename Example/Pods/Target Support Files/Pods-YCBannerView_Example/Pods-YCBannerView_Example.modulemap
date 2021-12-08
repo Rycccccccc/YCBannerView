@@ -1,0 +1,6 @@
+framework module Pods_YCBannerView_Example {
+  umbrella header "Pods-YCBannerView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
