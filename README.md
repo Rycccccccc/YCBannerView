@@ -100,7 +100,7 @@ pod 'YCBannerView'
 
 ## Author
 
-renyichun, 787725121@qq.com
+Rycccccccc, 787725121@qq.com
 
 ## License
 
