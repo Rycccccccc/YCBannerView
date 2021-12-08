@@ -1,6 +1,5 @@
 # YCBannerView
 
-[![CI Status](https://img.shields.io/travis/renyichun/YCBannerView.svg?style=flat)](https://travis-ci.org/renyichun/YCBannerView)
 [![Version](https://img.shields.io/cocoapods/v/YCBannerView.svg?style=flat)](https://cocoapods.org/pods/YCBannerView)
 [![License](https://img.shields.io/cocoapods/l/YCBannerView.svg?style=flat)](https://cocoapods.org/pods/YCBannerView)
 [![Platform](https://img.shields.io/cocoapods/p/YCBannerView.svg?style=flat)](https://cocoapods.org/pods/YCBannerView)
@@ -9,11 +8,13 @@
 ## 简介
 
 `效果图如下`
+
 ![image](./source/image_00.gif)
 
 
 <font color=#FF0000 >喜欢的朋友希望给个Star支持一下,谢谢!!!</font>
 
+---
 ## 描述
 
 1、`YCBannerView` 一款轻量级的滚动轮播框架，支持自定义滚动视图。内部依赖了`Masonry`三方库，支持`Masonry`、`Frame`布局方式。
@@ -33,7 +34,8 @@
     - 普通的轮播图演示
     - 轮播图滚动更改父视图的背景颜色 
 
-## Example
+
+## 相关用法
 
 ```objc
 
