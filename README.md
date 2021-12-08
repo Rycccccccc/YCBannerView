@@ -24,7 +24,7 @@
 
 2、采用<font color=#0000FF >UITableView</font> 的设计思想,内部使用三张视图实现视图的复用，通过代理方法回调对应的刷新方法，具体参考demo
 
-![image](./source/image_01.jpg)
+![image](./source/img_01.jpg)
 
 3、提供了以下功能
     - 轮播图点击事件
